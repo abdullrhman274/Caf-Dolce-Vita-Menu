@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(46, 46, 46);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.men{
+    justify-content: center;
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
